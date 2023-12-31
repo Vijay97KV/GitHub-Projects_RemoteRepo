@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-25T12:35:54 IST" name="Default suite" finished-at="2023-12-25T12:35:54 IST" duration-ms="84">
+    <groups>
+    </groups>
+    <test started-at="2023-12-25T12:35:54 IST" name="Default test" finished-at="2023-12-25T12:35:54 IST" duration-ms="84">
+      <class name="this_is_super.Main">
+        <test-method signature="run()[pri:0, instance:this_is_super.Main@3f197a46]" started-at="2023-12-25T12:35:54 IST" name="run" finished-at="2023-12-25T12:35:54 IST" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+      </class> <!-- this_is_super.Main -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
