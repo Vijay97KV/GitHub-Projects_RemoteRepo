@@ -15,7 +15,7 @@ public class L10NTesting {
 	}
 	
 	public void culture() {
-		System.out.println("Western Culture we use suits mean its for Snow");
+		System.out.println("Western Culture we use suits mean its for Snow and seoson");
 	}
 
 }
