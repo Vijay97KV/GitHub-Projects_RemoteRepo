@@ -13,5 +13,9 @@ public class L10NTesting {
 		System.out.println("US-English");
 		
 	}
+	
+	public void culture() {
+		System.out.println("Western Culture");
+	}
 
 }
